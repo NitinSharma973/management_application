@@ -1,0 +1,22 @@
+.edit-user-container {
+  padding: 10px;
+  border: 1px solid #ccc;
+  margin-bottom: 10px;
+}
+
+.edit-user-container h3 {
+  margin-top: 0;
+}
+
+.edit-user-container form {
+  display: flex;
+  flex-direction: column;
+}
+
+.edit-user-container input {
+  margin-bottom: 5px;
+}
+
+.edit-user-container button {
+  margin-top: 5px;
+}
